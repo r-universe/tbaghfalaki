@@ -5,3 +5,6 @@
 [submodule "GCPBayes"]
 	path = GCPBayes
 	url = https://github.com/cran/GCPBayes
+[submodule "UHM"]
+	path = UHM
+	url = https://github.com/tbaghfalaki/uhm
