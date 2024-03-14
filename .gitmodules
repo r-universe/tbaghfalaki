@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "GCPBayes"]
 	path = GCPBayes
-	url = https://github.com/cran/GCPBayes
+	url = https://github.com/tbaghfalaki/gcpbayes
 [submodule "UHM"]
 	path = UHM
 	url = https://github.com/tbaghfalaki/uhm
